@@ -1,4 +1,4 @@
-name: env-framework
+name: env-fragment
 channels:
   - conda-forge
   - defaults
