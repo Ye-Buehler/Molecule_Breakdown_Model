@@ -29,6 +29,7 @@ Specific packages used are also listed below:
   - The model can be executed by using the following command to obtain the ring fragments and corresponding substituents:
 
     `python Molecule_Breakdown_Model_Ring_Fragments.py example1.smi`
+    
     `python Molecule_Breakdown_Model_Substituents.py example1.smi`
 
   - The model can also be carried out by applying the script *Molecule_Breakdown_Model_Ring_Fragments_Ring_Fragments.ipynb* and *Molecule_Breakdown_Model_Ring_Fragments_Substituents.ipynb* in the Jupyter Notebook
