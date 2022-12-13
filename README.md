@@ -34,7 +34,7 @@ Specific packages used are also listed below:
 
   - The model can also be carried out by applying the script *Molecule_Breakdown_Model_Ring_Fragments_Ring_Fragments.ipynb* and *Molecule_Breakdown_Model_Ring_Fragments_Substituents.ipynb* in the Jupyter Notebook
 
-Two .pickle files containing the ring fragments and substituents for each molecule in the sample pool (you can find these data in folder *example/results_of_each_example*) will be obtained. The fianl ring fragment and substituent datasets after combining the duplicates and sorting their frequency can be found in folder *results_merging/*. 
+Two .pickle files containing the ring fragments and substituents for each molecule in the sample pool (you can find these data in folder *example/results_of_each_example*) will be obtained. The fianl ring fragment and substituent datasets after combining the duplicates and sorting their frequency can be found in folder *results_merging*. 
 
 A .html file elaborating the final fragments results can be also obtained for each approach.
 
