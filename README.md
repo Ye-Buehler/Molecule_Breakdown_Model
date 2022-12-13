@@ -34,7 +34,7 @@ Specific packages used are also listed below:
 
   - The model can also be carried out by applying the script *Molecule_Breakdown_Model_Ring_Fragments_Ring_Fragments.ipynb* and *Molecule_Breakdown_Model_Ring_Fragments_Substituents.ipynb* in the Jupyter Notebook
 
-The two approaches above will both yield two .pickle files containing the fragments for each molecule in the sample pool (you can find these data in folder *example/results_of_each_example*) and the final framework dataset after combining the duplicates and sorting their frequency (you can find these final fragment datasets for two examples in folder *results_merging/results* for further steps of merging, etc.). 
+Two .pickle files containing the ring fragments and substituents for each molecule in the sample pool (you can find these data in folder *example/results_of_each_example*) will be obtained. The final ring fragment and substituent datasets after combining the duplicates and sorting their frequency (you can find these final fragment datasets for two examples in folder *results_merging/results* for further steps of merging, etc.). 
 
 A .html file elaborating the final fragments results can be also obtained for each approach.
 
@@ -46,9 +46,7 @@ Therefore, an efficient script for merging all the results for each sub-database
 
 In folder *results_merging* you can see the file *Molecule_Breakdown_Results_Merge.ipynb* which will realize this merging process.
 
-Then all sorted frameworks or the top 10000 sorted frameworks for the entire database can be displayed in a .html file. *top-10000-results-with-ROMol.html* in the same folder shows the framework dataset built from the two combined examples.
-
-You can also save the SMILES of frameworks on your own or utilize the *results_merged.pickle* file, and then visualize them with software like ChemDraw or Marvin.
+Then all sorted frameworks or the top 10000 sorted frameworks for the entire database can be displayed in a .html file. You can also save the SMILES of frameworks on your own or utilize the *results_merged.pickle* file, and then visualize them with software like ChemDraw or Marvin.
 
 ## Contributing
 
