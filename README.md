@@ -1,6 +1,9 @@
 # Molecule Breakdown Model
 
-Thank you for your interest in this repo complementing the "[XXX Analysis of the Generated Database GDB-13s](https:)" publication.
+Thank you for your interest in this repo complementing the "[Expanding Bioactive Fragment Space with the Generated Database GDB-13s](https:)" publication.
+
+![image](https://github.com/Ye-Buehler/Molecule_Breakdown_Model/assets/93389795/f4d3207e-138d-4a12-9827-9721d5476639)
+
 
 ## Requirements
 ### You have installed anaconda or miniconda with python 3.6 - 3.9
