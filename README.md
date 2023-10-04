@@ -1,6 +1,6 @@
 # Molecule Breakdown Model
 
-Thank you for your interest in this repo complementing the "[Expanding Bioactive Fragment Space with the Generated Database GDB-13s](https:)" publication.
+Thank you for your interest in this repo complementing the "[Expanding Bioactive Fragment Space with the Generated Database GDB-13s](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01096)" publication.
 
 <img width="722" alt="image" src="https://github.com/Ye-Buehler/Molecule_Breakdown_Model/assets/93389795/6302158e-7e27-4eae-b657-47ea9bd87dcf">
 
